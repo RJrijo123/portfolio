@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d92c7854.css",
-    "main.js": "/portfolio/static/js/main.27f9a49f.js",
+    "main.js": "/portfolio/static/js/main.b6be1250.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
-    "static/media/dressStore.png": "/portfolio/static/media/dressStore.a1ea8b61834c7eed8132.png",
     "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/suicide.png": "/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/store.png": "/portfolio/static/media/store.bb971d78bf26c0d8ac20.png",
     "static/media/Rijo Jacob - Resume.pdf": "/portfolio/static/media/Rijo Jacob - Resume.f95e96498645e895615e.pdf",
+    "static/media/exp.png": "/portfolio/static/media/exp.f27859785acaeacbd60d.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/expendix.png": "/portfolio/static/media/expendix.49ed4524efb8a990c67a.png",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/portfolio/static/media/logo.cf35634f332a23a9c60e.png",
     "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.d92c7854.css.map": "/portfolio/static/css/main.d92c7854.css.map",
-    "main.27f9a49f.js.map": "/portfolio/static/js/main.27f9a49f.js.map",
+    "main.b6be1250.js.map": "/portfolio/static/js/main.b6be1250.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d92c7854.css",
-    "static/js/main.27f9a49f.js"
+    "static/js/main.b6be1250.js"
   ]
 }

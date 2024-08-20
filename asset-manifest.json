@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d92c7854.css",
-    "main.js": "/portfolio/static/js/main.d421d23f.js",
+    "main.js": "/portfolio/static/js/main.95b30bfb.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/store.png": "/portfolio/static/media/store.c38512aebdff72a1781e.png",
     "static/media/exp.png": "/portfolio/static/media/exp.d2f2c72b050fef823ca5.png",
+    "static/media/ChatApp.png": "/portfolio/static/media/ChatApp.5a76174d331ef2b93bfc.png",
     "static/media/Rijo Jacob - Resume.pdf": "/portfolio/static/media/Rijo Jacob - Resume.f95e96498645e895615e.pdf",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -14,11 +15,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.d92c7854.css.map": "/portfolio/static/css/main.d92c7854.css.map",
-    "main.d421d23f.js.map": "/portfolio/static/js/main.d421d23f.js.map",
+    "main.95b30bfb.js.map": "/portfolio/static/js/main.95b30bfb.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d92c7854.css",
-    "static/js/main.d421d23f.js"
+    "static/js/main.95b30bfb.js"
   ]
 }

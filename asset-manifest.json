@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c548abaf.css",
-    "main.js": "/portfolio/static/js/main.77942086.js",
+    "main.js": "/portfolio/static/js/main.0d538d62.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/avata.png": "/portfolio/static/media/avata.f7c827bebe332a479e2f.png",
     "static/media/Eduma.png": "/portfolio/static/media/Eduma.1d74cd52903cdf47a8ab.png",
+    "static/media/bann.png": "/portfolio/static/media/bann.ebd8531f2a1c40489c58.png",
     "static/media/Furniro.png": "/portfolio/static/media/Furniro.70d2f89aa166f76254a1.png",
     "static/media/store.png": "/portfolio/static/media/store.c38512aebdff72a1781e.png",
     "static/media/Expe.png": "/portfolio/static/media/Expe.c2944dc55a5b99f5ebac.png",
@@ -12,7 +13,6 @@
     "static/media/Medusa.png": "/portfolio/static/media/Medusa.5fb4d17f0a3f5bfa54bf.png",
     "static/media/exp.png": "/portfolio/static/media/exp.d2f2c72b050fef823ca5.png",
     "static/media/ChatApp.png": "/portfolio/static/media/ChatApp.5a76174d331ef2b93bfc.png",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Rijo Jacob.pdf": "/portfolio/static/media/Rijo Jacob.06fea50d7ed2209ce490.pdf",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -20,11 +20,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.c548abaf.css.map": "/portfolio/static/css/main.c548abaf.css.map",
-    "main.77942086.js.map": "/portfolio/static/js/main.77942086.js.map",
+    "main.0d538d62.js.map": "/portfolio/static/js/main.0d538d62.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c548abaf.css",
-    "static/js/main.77942086.js"
+    "static/js/main.0d538d62.js"
   ]
 }
